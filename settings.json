@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "node-sg-free-01.tickhosting.com",
-    "port": 50179,
-    "version": "1.21.1"
+    "ip": "bloxsmp.mcsh.io",
+    "port": 25565,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
