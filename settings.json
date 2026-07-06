@@ -28,10 +28,10 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 500,
+      "repeat-delay": 100,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Perzaan Gaming!",
+        "ChocoMc ki mkc ",
+        "This is the best server ever",
         "I like to play Minecraft!"
       ]
     },
@@ -50,7 +50,7 @@
     "circle-walk": {
       "enabled": true,
       "radius": 4,
-      "speed": 3000
+      "speed": 100
     },
     "look-around": {
       "enabled": true,
